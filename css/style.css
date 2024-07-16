@@ -1,0 +1,138 @@
+#id_sd {
+    margin-top: 20px;
+    padding: 5px;
+    text-align: center;
+    background-color: #0e545a;
+    border: solid 1px #c3c3c3;
+  }
+  
+  #id_sd {
+    padding: 50px;
+    display: none;
+    font-size: 30px;
+    font-weight: 600;
+    color: #fff;
+  }
+
+  
+
+
+  #id_sp {
+    margin-top: 20px;
+    padding: 5px;
+    text-align: center;
+    background-color: #938e23;
+    border: solid 1px #c3c3c3;
+  }
+  
+  #id_sp {
+    padding: 50px;
+    font-size: 30px;
+    font-weight: 600;
+    color: rgb(252, 252, 252);
+  }
+
+
+
+
+  #id_st {
+    margin-top: 20px;
+    padding: 5px;
+    text-align: center;
+    background-color: #26b9b9;
+    border: solid 1px #c3c3c3;
+  }
+  
+  #id_st {
+    padding: 50px;
+    font-size: 30px;
+    font-weight: 600;
+    color: rgb(0, 0, 0);
+    display: none;
+  }
+
+
+
+  #id_ani {
+    margin-top: 20px;
+    background:#00b2df;
+    height:100px;
+    width:100px;
+    position: relative;
+  }
+
+
+
+  #id_maani {
+    margin-top: 20px;
+    background:#98bf21;
+    height:100px;
+    width:100px;
+    position:relative;
+  }
+
+
+  #id_relani {
+    margin-top: 20px;
+    background:#ce109f;
+    height:100px;
+    width:100px;
+    position:relative;
+  }
+
+
+  #id_preani {
+    margin-top: 20px;
+    background:#198a05;
+    height:100px;
+    width:100px;
+    position:relative;
+  }
+
+  #id_queueani {
+    margin-top: 20px;
+    background:#7712b2;
+    height:100px;
+    width:100px;
+    position:relative;
+  }
+
+  #id_firstani {
+    margin-top: 20px;
+    background:#8c93e0;
+    height:100px;
+    width:200px;
+    font-size:30px;
+    position:relative;
+    text-transform: uppercase;
+    font-weight: 600;
+  }
+
+
+  #sad, #id_stopani {
+    padding: 5px;
+    font-size: 18px;
+    text-align: center;
+    background-color: #870892;
+    color: white;
+    border: solid 1px #353ac6;
+    border-radius: 3px;
+  }
+  #id_stopani {
+    margin-top: 20px;
+  }
+  #sad {
+    padding: 50px;
+    display: none;
+    text-transform: uppercase;
+    font-size: 30px;
+  }
+
+#ValTex{
+    margin-top: 20px;
+    padding: 5px;
+    font-size: 18px;
+    text-align: center;
+    border: solid 1px #353ac6;
+    border-radius: 3px;
+}
